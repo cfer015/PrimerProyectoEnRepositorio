@@ -6,7 +6,7 @@
 	<h3>Holas a todos como van</h3>
 	<div>wao tamos normalmente XD</div>
 	<p>
-		hola mundo		
+		hola mundo 2		
 	</p>
 </body>
 </html>
